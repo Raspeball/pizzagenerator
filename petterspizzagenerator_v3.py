@@ -1,4 +1,5 @@
 ### --- Pizzagenerator for Petter's Pizza --- ###
+# This Python file uses the following encoding: utf-8
 ## Sist oppdatert: november 2014 ##
 ## ----- ----- ##
 #
