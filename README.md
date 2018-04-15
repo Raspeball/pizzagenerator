@@ -2,6 +2,7 @@ pizzagenerator
 ==============
 
 Pizzavelger/Pizzagenerator for Petters Pizza Trondheim (Gløshaugen/Berg)
+Meny fra http://www.petterspizza.no (pr. april 2018)
 
 ==============
 
